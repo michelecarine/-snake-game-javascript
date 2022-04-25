@@ -43,4 +43,4 @@ Já pensou em criar seu próprio jogo do zero? Aprenda a desenvolver de forma si
 - Este projeto está sob a licença [MIT](./LICENSE).<br>
 
 <!--Bottom session-->
-<br><h4 align=center>Made with by <a target="_blank" href="https://michelemeiira.vercel.app" >Michele Meira</a></h4>
+<br><h4 align=center>Made with by <a target="_blank" href="https://michelecarine.vercel.app" >Michele Carine</a></h4>
